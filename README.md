@@ -15,3 +15,4 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="mbiesiad Hacktoberfest2021 badge" height="40" width="40" align="right">Best wishes! :octocat:
 
 ![Visitors since 28 Jun 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mbiesiad&repo=mbiesiad&countColor=red&labelColor=green)
+![Stars mbiesiad](https://img.shields.io/github/stars/mbiesiad?style=plastic)
