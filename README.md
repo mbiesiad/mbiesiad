@@ -16,7 +16,7 @@
 
 </br>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mbiesiad&color=red&plastic" alt="visitors 22-11-08>
+    <img src="https://komarev.com/ghpvc/?username=mbiesiad&color=red&plastic" alt="visitors 2022-11-08">
 </a>
 
 ![Stars mbiesiad](https://img.shields.io/github/stars/mbiesiad?style=plastic)
