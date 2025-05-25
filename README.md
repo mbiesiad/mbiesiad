@@ -1,5 +1,7 @@
 # Hi there! ⭐
 
+Software Engineer • Security Researcher • Offensive Security • Pentesting • Red Teaming • Educator • Mentor • Writer
+
 ### TLDR 🚀
 
 ## See more, here: 
