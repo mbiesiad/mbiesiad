@@ -6,6 +6,12 @@ Software Engineer • Security Researcher • Offensive Security • Pentesting 
 
 ## See more, here: 
 
+Hall of Fame for Security Researchers:
+
+* [security-hall-of-fame-mb](https://github.com/mbiesiad/security-hall-of-fame-mb)
+
+or 
+
 * [mbiesiad.github.io](https://mbiesiad.github.io/)
 
 <p align="center">
