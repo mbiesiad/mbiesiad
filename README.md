@@ -4,6 +4,8 @@ Software Engineer • Security Researcher • Offensive Security • Pentesting 
 
 ### TLDR 🚀
 
+Recognized by organizations such as Google, NASA, Mozilla, Mercedes-Benz, Philips, Cloudflare, Wikimedia, NVIDIA, Siemens, CERN, and the U.S. Department of Health and Human Services for responsible vulnerability disclosure.
+
 ## See more, here: 
 
 Hall of Fame for Security Researchers:
