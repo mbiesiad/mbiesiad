@@ -12,9 +12,9 @@ Hall of Fame for Security Researchers:
 
 * [security-hall-of-fame-mb](https://github.com/mbiesiad/security-hall-of-fame-mb)
 
-or 
+or CVE records 
 
-* [mbiesiad.github.io](https://mbiesiad.github.io/)
+* [Vulnerability Research](https://github.com/mbiesiad/vulnerability-research)
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=mbiesiad&show_icons=true alt="mbiesiad stats"/>
