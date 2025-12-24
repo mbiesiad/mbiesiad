@@ -10,7 +10,7 @@ Recognized by organizations such as Google, NASA, Mozilla, Mercedes-Benz, Philip
 
 Hall of Fame for Security Researchers:
 
-* [security-hall-of-fame-mb](https://github.com/mbiesiad/security-hall-of-fame-mb)
+* [Acknowledgements / Public Recognition](https://github.com/mbiesiad/security-hall-of-fame-mb)
 
 or CVE records 
 
